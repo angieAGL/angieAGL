@@ -13,7 +13,7 @@ Javascript – Nivel Avanzado
 
 Angular – Nivel Básica
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> – Nivel Intermedio
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"> – Nivel Intermedio
 
 Typescript – Nivel Intermedio
 
