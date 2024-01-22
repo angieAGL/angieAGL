@@ -1,4 +1,15 @@
-### Hi there 👋
+### ¡Hola! SOy Angelina Orozco👋
+
+Ingeniería Civil en Computación e Informática, con un gran interés en Diseño web y desarrollo de páginas web. Con capacidad para aprender y aplicar mis conocimientos al ámbito profesional. En busca de una oportunidad laboral en la que desarrollar mis habilidades y adquirir experiencia.
+
+### Software
+HTML – Nivel Avanzado
+Bootstrap – Nivel Intermedio
+CSS – Nivel Avanzado
+Javascript – Nivel Avanzado
+Angular – Nivel Básica
+React – Nivel Intermedio
+Typescript – Nivel Intermedio
 
 <!--
 **angieAGL/angieAGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
