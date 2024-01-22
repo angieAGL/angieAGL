@@ -3,20 +3,12 @@
 Ingeniería Civil en Computación e Informática, con un gran interés en Diseño web y desarrollo de páginas web. Con capacidad para aprender y aplicar mis conocimientos al ámbito profesional. En busca de una oportunidad laboral en la que desarrollar mis habilidades y adquirir experiencia.
 
 ### Software
-HTML – Nivel Avanzado
-
-Bootstrap – Nivel Intermedio
-
-CSS – Nivel Avanzado
-
-Javascript – Nivel Avanzado
-
-Angular – Nivel Básica
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"> – Nivel Intermedio
-
-Typescript – Nivel Intermedio
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40">
 <!--
 **angieAGL/angieAGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
