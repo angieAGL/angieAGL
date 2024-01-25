@@ -28,6 +28,7 @@
 </div>
 
 ### Contact
+<img align="right" height="150" src="https://img.freepik.com/vector-gratis/lindo-panda-jugando-computadora-portatil-dibujos-animados-vector-icono-ilustracion-animal-tecnologia-icono-aislado_138676-5387.jpg"  />
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -38,7 +39,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-<img align="right" height="150" src="https://img.freepik.com/vector-gratis/lindo-panda-jugando-computadora-portatil-dibujos-animados-vector-icono-ilustracion-animal-tecnologia-icono-aislado_138676-5387.jpg"  />
 
 ### Stats
 
