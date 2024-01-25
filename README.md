@@ -27,8 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-### Contact
 <img align="right" height="150" src="https://img.freepik.com/vector-gratis/lindo-panda-jugando-computadora-portatil-dibujos-animados-vector-icono-ilustracion-animal-tecnologia-icono-aislado_138676-5387.jpg"  />
+
+### Contact
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -49,10 +50,3 @@
 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/angieAGL/angieAGL/output/snake.svg" alt="Snake animation" />
-
-###
