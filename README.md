@@ -4,6 +4,7 @@
 
 <p align="left">Ingeniería Civil en Computación e Informática, con un gran interés en Diseño web y desarrollo de páginas web. Con capacidad para aprender y aplicar mis conocimientos al ámbito profesional. En busca de una oportunidad laboral en la que desarrollar mis habilidades y adquirir experiencia.</p>
 
+<img align="right" height="150" src="https://img.freepik.com/vector-gratis/lindo-panda-jugando-computadora-portatil-dibujos-animados-vector-icono-ilustracion-animal-tecnologia-icono-aislado_138676-5387.jpg"  />
 
 ### Software
 
@@ -27,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-<img align="right" height="150" src="https://img.freepik.com/vector-gratis/lindo-panda-jugando-computadora-portatil-dibujos-animados-vector-icono-ilustracion-animal-tecnologia-icono-aislado_138676-5387.jpg"  />
 
 ### Contact
 
